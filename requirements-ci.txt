@@ -1,0 +1,8 @@
+coverage
+flake8
+flexmock
+mock
+pytest
+pytest-cov
+pytest-xdist
+pycodestyle
